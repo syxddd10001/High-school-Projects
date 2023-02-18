@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PONG", "PONG\PONG.csproj", "{78577B3E-DF13-4D9B-B6C9-5400D7D65D5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACC452EA-DE07-4F5E-882E-7646C559AA23}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\Borno\OneDrive\Pictures\d74682d3181be35.jpg = C:\Users\Borno\OneDrive\Pictures\d74682d3181be35.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78577B3E-DF13-4D9B-B6C9-5400D7D65D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78577B3E-DF13-4D9B-B6C9-5400D7D65D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78577B3E-DF13-4D9B-B6C9-5400D7D65D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78577B3E-DF13-4D9B-B6C9-5400D7D65D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBB7E1E4-65DD-41D9-825E-875381194954}
+	EndGlobalSection
+EndGlobal
