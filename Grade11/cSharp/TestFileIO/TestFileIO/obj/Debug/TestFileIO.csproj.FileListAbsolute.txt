@@ -1,0 +1,14 @@
+C:\Users\348461252\source\repos\TestFileIO\TestFileIO\bin\Debug\TestFileIO.exe.config
+C:\Users\348461252\source\repos\TestFileIO\TestFileIO\bin\Debug\TestFileIO.exe
+C:\Users\348461252\source\repos\TestFileIO\TestFileIO\bin\Debug\TestFileIO.pdb
+C:\Users\348461252\source\repos\TestFileIO\TestFileIO\obj\Debug\TestFileIO.csprojAssemblyReference.cache
+C:\Users\348461252\source\repos\TestFileIO\TestFileIO\obj\Debug\TestFileIO.csproj.CoreCompileInputs.cache
+C:\Users\348461252\source\repos\TestFileIO\TestFileIO\obj\Debug\TestFileIO.exe
+C:\Users\348461252\source\repos\TestFileIO\TestFileIO\obj\Debug\TestFileIO.pdb
+J:\Programming\CSharp\TestFileIO\TestFileIO\bin\Debug\TestFileIO.exe.config
+J:\Programming\CSharp\TestFileIO\TestFileIO\bin\Debug\TestFileIO.exe
+J:\Programming\CSharp\TestFileIO\TestFileIO\bin\Debug\TestFileIO.pdb
+J:\Programming\CSharp\TestFileIO\TestFileIO\obj\Debug\TestFileIO.csprojAssemblyReference.cache
+J:\Programming\CSharp\TestFileIO\TestFileIO\obj\Debug\TestFileIO.csproj.CoreCompileInputs.cache
+J:\Programming\CSharp\TestFileIO\TestFileIO\obj\Debug\TestFileIO.exe
+J:\Programming\CSharp\TestFileIO\TestFileIO\obj\Debug\TestFileIO.pdb
