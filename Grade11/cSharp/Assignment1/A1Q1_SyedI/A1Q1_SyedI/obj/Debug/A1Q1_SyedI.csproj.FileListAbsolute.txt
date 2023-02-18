@@ -1,0 +1,21 @@
+I:\SchoolStuff\ICS cs\A1Q1_SyedI\A1Q1_SyedI\bin\Debug\A1Q1_SyedI.exe.config
+I:\SchoolStuff\ICS cs\A1Q1_SyedI\A1Q1_SyedI\bin\Debug\A1Q1_SyedI.exe
+I:\SchoolStuff\ICS cs\A1Q1_SyedI\A1Q1_SyedI\bin\Debug\A1Q1_SyedI.pdb
+I:\SchoolStuff\ICS cs\A1Q1_SyedI\A1Q1_SyedI\obj\Debug\A1Q1_SyedI.csprojAssemblyReference.cache
+I:\SchoolStuff\ICS cs\A1Q1_SyedI\A1Q1_SyedI\obj\Debug\A1Q1_SyedI.csproj.CoreCompileInputs.cache
+I:\SchoolStuff\ICS cs\A1Q1_SyedI\A1Q1_SyedI\obj\Debug\A1Q1_SyedI.exe
+I:\SchoolStuff\ICS cs\A1Q1_SyedI\A1Q1_SyedI\obj\Debug\A1Q1_SyedI.pdb
+C:\Users\348461252\Desktop\A1Q1_SyedI\A1Q1_SyedI\bin\Debug\A1Q1_SyedI.exe.config
+C:\Users\348461252\Desktop\A1Q1_SyedI\A1Q1_SyedI\bin\Debug\A1Q1_SyedI.exe
+C:\Users\348461252\Desktop\A1Q1_SyedI\A1Q1_SyedI\bin\Debug\A1Q1_SyedI.pdb
+C:\Users\348461252\Desktop\A1Q1_SyedI\A1Q1_SyedI\obj\Debug\A1Q1_SyedI.csprojAssemblyReference.cache
+C:\Users\348461252\Desktop\A1Q1_SyedI\A1Q1_SyedI\obj\Debug\A1Q1_SyedI.csproj.CoreCompileInputs.cache
+C:\Users\348461252\Desktop\A1Q1_SyedI\A1Q1_SyedI\obj\Debug\A1Q1_SyedI.exe
+C:\Users\348461252\Desktop\A1Q1_SyedI\A1Q1_SyedI\obj\Debug\A1Q1_SyedI.pdb
+E:\Programming\CPlusPlus\A1Q1_SyedI\A1Q1_SyedI\bin\Debug\A1Q1_SyedI.exe.config
+E:\Programming\CPlusPlus\A1Q1_SyedI\A1Q1_SyedI\bin\Debug\A1Q1_SyedI.exe
+E:\Programming\CPlusPlus\A1Q1_SyedI\A1Q1_SyedI\bin\Debug\A1Q1_SyedI.pdb
+E:\Programming\CPlusPlus\A1Q1_SyedI\A1Q1_SyedI\obj\Debug\A1Q1_SyedI.csprojAssemblyReference.cache
+E:\Programming\CPlusPlus\A1Q1_SyedI\A1Q1_SyedI\obj\Debug\A1Q1_SyedI.csproj.CoreCompileInputs.cache
+E:\Programming\CPlusPlus\A1Q1_SyedI\A1Q1_SyedI\obj\Debug\A1Q1_SyedI.exe
+E:\Programming\CPlusPlus\A1Q1_SyedI\A1Q1_SyedI\obj\Debug\A1Q1_SyedI.pdb

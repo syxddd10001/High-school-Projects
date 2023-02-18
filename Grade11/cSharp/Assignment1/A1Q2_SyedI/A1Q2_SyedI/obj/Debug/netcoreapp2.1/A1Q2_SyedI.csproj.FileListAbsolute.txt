@@ -1,0 +1,33 @@
+C:\Users\348461252\Desktop\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.deps.json
+C:\Users\348461252\Desktop\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.runtimeconfig.json
+C:\Users\348461252\Desktop\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.runtimeconfig.dev.json
+C:\Users\348461252\Desktop\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.dll
+C:\Users\348461252\Desktop\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.pdb
+C:\Users\348461252\Desktop\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.csprojAssemblyReference.cache
+C:\Users\348461252\Desktop\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.csproj.CoreCompileInputs.cache
+C:\Users\348461252\Desktop\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.AssemblyInfoInputs.cache
+C:\Users\348461252\Desktop\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.AssemblyInfo.cs
+C:\Users\348461252\Desktop\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.dll
+C:\Users\348461252\Desktop\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.pdb
+I:\SchoolStuff\ICS cs\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.deps.json
+I:\SchoolStuff\ICS cs\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.runtimeconfig.json
+I:\SchoolStuff\ICS cs\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.runtimeconfig.dev.json
+I:\SchoolStuff\ICS cs\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.dll
+I:\SchoolStuff\ICS cs\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.pdb
+I:\SchoolStuff\ICS cs\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.csprojAssemblyReference.cache
+I:\SchoolStuff\ICS cs\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.csproj.CoreCompileInputs.cache
+I:\SchoolStuff\ICS cs\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.AssemblyInfoInputs.cache
+I:\SchoolStuff\ICS cs\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.AssemblyInfo.cs
+I:\SchoolStuff\ICS cs\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.dll
+I:\SchoolStuff\ICS cs\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.pdb
+J:\Programming\CPlusPlus\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.deps.json
+J:\Programming\CPlusPlus\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.runtimeconfig.json
+J:\Programming\CPlusPlus\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.runtimeconfig.dev.json
+J:\Programming\CPlusPlus\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.dll
+J:\Programming\CPlusPlus\A1Q2_SyedI\A1Q2_SyedI\bin\Debug\netcoreapp2.1\A1Q2_SyedI.pdb
+J:\Programming\CPlusPlus\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.csprojAssemblyReference.cache
+J:\Programming\CPlusPlus\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.csproj.CoreCompileInputs.cache
+J:\Programming\CPlusPlus\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.AssemblyInfoInputs.cache
+J:\Programming\CPlusPlus\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.AssemblyInfo.cs
+J:\Programming\CPlusPlus\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.dll
+J:\Programming\CPlusPlus\A1Q2_SyedI\A1Q2_SyedI\obj\Debug\netcoreapp2.1\A1Q2_SyedI.pdb

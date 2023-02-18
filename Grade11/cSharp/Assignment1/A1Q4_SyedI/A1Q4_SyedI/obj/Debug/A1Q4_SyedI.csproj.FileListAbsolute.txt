@@ -1,0 +1,7 @@
+J:\Programming\CPlusPlus\A1Q4_SyedI\A1Q4_SyedI\bin\Debug\A1Q4_SyedI.exe.config
+J:\Programming\CPlusPlus\A1Q4_SyedI\A1Q4_SyedI\bin\Debug\A1Q4_SyedI.exe
+J:\Programming\CPlusPlus\A1Q4_SyedI\A1Q4_SyedI\bin\Debug\A1Q4_SyedI.pdb
+J:\Programming\CPlusPlus\A1Q4_SyedI\A1Q4_SyedI\obj\Debug\A1Q4_SyedI.csprojAssemblyReference.cache
+J:\Programming\CPlusPlus\A1Q4_SyedI\A1Q4_SyedI\obj\Debug\A1Q4_SyedI.csproj.CoreCompileInputs.cache
+J:\Programming\CPlusPlus\A1Q4_SyedI\A1Q4_SyedI\obj\Debug\A1Q4_SyedI.exe
+J:\Programming\CPlusPlus\A1Q4_SyedI\A1Q4_SyedI\obj\Debug\A1Q4_SyedI.pdb

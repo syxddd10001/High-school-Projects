@@ -1,0 +1,7 @@
+C:\Users\Borno\source\repos\A1Q3_SyedI\A1Q3_SyedI\bin\Debug\A1Q3_SyedI.exe.config
+C:\Users\Borno\source\repos\A1Q3_SyedI\A1Q3_SyedI\bin\Debug\A1Q3_SyedI.exe
+C:\Users\Borno\source\repos\A1Q3_SyedI\A1Q3_SyedI\bin\Debug\A1Q3_SyedI.pdb
+C:\Users\Borno\source\repos\A1Q3_SyedI\A1Q3_SyedI\obj\Debug\A1Q3_SyedI.csprojAssemblyReference.cache
+C:\Users\Borno\source\repos\A1Q3_SyedI\A1Q3_SyedI\obj\Debug\A1Q3_SyedI.csproj.CoreCompileInputs.cache
+C:\Users\Borno\source\repos\A1Q3_SyedI\A1Q3_SyedI\obj\Debug\A1Q3_SyedI.exe
+C:\Users\Borno\source\repos\A1Q3_SyedI\A1Q3_SyedI\obj\Debug\A1Q3_SyedI.pdb
