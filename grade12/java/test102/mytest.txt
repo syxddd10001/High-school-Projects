@@ -1,0 +1,15 @@
+Kyle,C,A,A,C,E,C,D,C,C,B,C,E,D,C,A
+Bob,A,B,A,C,E,C,D,C,C,B,C,E,D,A,D
+Sanjay,C,A,D,C,E,C,D,C,C,B,C,E,D,C,C
+Carrie,C,A,C,C,E,C,D,C,C,B,C,E,D,C,A
+Alvin,C,A,C,C,E,C,D,C,C,B,C,E,D,D,C
+Gauruv,C,B,A,C,E,C,D,C,C,B,C,E,D,C,A
+Terry,C,A,A,C,E,C,D,C,C,B,C,E,C,D,
+Perry,C,A,A,C,E,C,D,C,C,B,C,E,D,C,A
+Rob,A,B,A,C,E,C,D,C,C,B,C,E,D,A,D
+Krey,C,A,A,C,A,D,D,C,C,B,C,E,D,C,C
+Fox,C,A,D,D,E,C,D,C,C,E,C,E,E,C,A
+Belvin,C,B,B,C,E,C,D,C,C,B,C,E,D,D,C
+Swagger,C,B,C,C,E,C,D,C,C,B,C,E,D,C,A
+Adam,C,A,C,D,E,C,D,C,C,B,C,E,C,D
+Walker,C,E,E,C,E,C,D,C,C,B,C,E,C,D
