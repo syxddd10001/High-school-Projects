@@ -1,0 +1,14 @@
+J:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\bin\Debug\A4_SyedIltefat.exe.config
+J:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\bin\Debug\A4_SyedIltefat.exe
+J:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\bin\Debug\A4_SyedIltefat.pdb
+J:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\obj\Debug\A4_SyedIltefat.csprojAssemblyReference.cache
+J:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\obj\Debug\A4_SyedIltefat.csproj.CoreCompileInputs.cache
+J:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\obj\Debug\A4_SyedIltefat.exe
+J:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\obj\Debug\A4_SyedIltefat.pdb
+E:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\bin\Debug\A4_SyedIltefat.exe.config
+E:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\bin\Debug\A4_SyedIltefat.exe
+E:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\bin\Debug\A4_SyedIltefat.pdb
+E:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\obj\Debug\A4_SyedIltefat.csprojAssemblyReference.cache
+E:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\obj\Debug\A4_SyedIltefat.csproj.CoreCompileInputs.cache
+E:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\obj\Debug\A4_SyedIltefat.exe
+E:\Programming\CSharp\Assignment4\A4_SyedIltefat\A4_SyedIltefat\obj\Debug\A4_SyedIltefat.pdb
