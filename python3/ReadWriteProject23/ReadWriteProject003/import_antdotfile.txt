@@ -1,0 +1,3 @@
+code=23_period="."_hecker="none"_hacker="1"_string="2"_string01=1_red="F010101"            
+code1=53_period="."_hecker="none"_hacker="10"_string="21"_string101=11_green="R110111"            
+code2_62_comma=","_hecker=None_hacker="None"_string="22"_string102=12_blue="B2311111"
